@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-106-add-get-pending-proposals-view-to-multisig",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-106-add-get-pending-proposals-view-to-multisig": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-106-add-get-pending-proposals-view-to-multisig",
+    "origin"
+  ]
+}
